@@ -11,10 +11,8 @@
         "expirydate": "15-06-2025",
         "Allowoffline": false
     }
-]
-{
+    {
         "device_id": "607cc42f65a689ff",
-        "key": "vinor8panel",
-        "expirydate": "15-07-2030",
-        "Al1owoffline": false
-    }
+        "key": "vinor50",
+        "expirydate": "31-12-2030",
+        "Allowoffline": true
