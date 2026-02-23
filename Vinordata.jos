@@ -14,5 +14,11 @@
         "device_id": "607cc42f65a689ff",
         "key": "vinor50",
         "expirydate": "15-12-2027",
-        "Allowoffline": false
+        "Allowoffline": false}
     }
+    {
+        "device_id": "485eac3e388bf9bb",
+        "key": "xim50",
+        "expirydate": "24-2-2026",
+        "Allowoffline": false}
+    },
