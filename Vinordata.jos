@@ -6,8 +6,8 @@
         "Allowoffline": true
     },
     {
-        "device_id": "device456",
-        "key": "key67890",
+        "device_id": "607cc42f65a689ff",
+        "key": "amir8989",
         "expirydate": "15-06-2025",
         "Allowoffline": false
     }
@@ -15,6 +15,6 @@
 {
         "device_id": "607cc42f65a689ff",
         "key": "amirtaha5060",
-        "expirydate": "15-06-2030",
+        "expirydate": "15-07-2030",
         "Al1owoffline": false
     }
